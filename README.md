@@ -48,17 +48,17 @@ Reproduire la démarche complète d'un Data Analyst en contexte bancaire :
 ### 1. Performance commerciale
 Marge par segment et par région, nombre de produits moyen, répartition de l'encours.
 
-![Dashboard Performance](./powerbi/dashboard_1.png)
+![Dashboard Performance](./dashboard_1.png)
 
 ### 2. Risque de crédit
 Taux de défaillance, encours par notation, nuage de points score/marge, top 20 clients à risque de départ.
 
-![Dashboard Risque](./powerbi/dashboard_2.png)
+![Dashboard Risque](./dashboard_2.png)
 
 ### 3. Transactions
 Volume et évolution mensuelle, répartition par canal et type d'opération.
 
-![Dashboard Transactions](./powerbi/dashboard_3.png)
+![Dashboard Transactions](./dashboard_3.png)
 
 ##  Qualité des données
 
